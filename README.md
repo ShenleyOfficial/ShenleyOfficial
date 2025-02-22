@@ -6,6 +6,7 @@
 
 -   前端基础：HTML、CSS、JavaScript
 -   版本控制：Git 和 GitHub
+> 目前仓库里的代码都是 AI 写的
 
 ## CodeTime
 ![CodeTime](https://img.shields.io/endpoint?style=flat-square&color=%23646CFF&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D31650%26project%3D%26in=0)
