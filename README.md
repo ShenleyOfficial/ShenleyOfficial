@@ -1,8 +1,6 @@
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwindcss,astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=pnpm,vite,vscode,webstorm,github)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=git,windows,pycharm,python,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,pycharm,mysql,astro)](https://skillicons.dev)
 
 ## Github Stats
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=ShenleyOfficial&show_icons=true)
